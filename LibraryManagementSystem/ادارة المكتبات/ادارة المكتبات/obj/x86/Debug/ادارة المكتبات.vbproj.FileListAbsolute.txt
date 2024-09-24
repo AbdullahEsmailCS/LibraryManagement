@@ -1,0 +1,12 @@
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\bin\Debug\ادارة المكتبات.exe
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\bin\Debug\ادارة المكتبات.pdb
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\bin\Debug\ادارة المكتبات.xml
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة_المكتبات.Form1.resources
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة_المكتبات.Form2.resources
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة_المكتبات.frm_add_book.resources
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة_المكتبات.Resources.resources
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة المكتبات.vbproj.GenerateResource.Cache
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة المكتبات.exe
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة المكتبات.xml
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة المكتبات.pdb
+C:\Users\ABDULLAH ISMAIL\documents\visual studio 2010\Projects\ادارة المكتبات\ادارة المكتبات\obj\x86\Debug\ادارة_المكتبات.frm_show_book.resources
